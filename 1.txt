@@ -6,3 +6,5 @@ num1 = 3 #zhangsan
 =======
 num1 = 7 #manager
 >>>>>>> d13a7f250b899f1596e30ff0c8ea3357852a709b
+
+num4 = 5
